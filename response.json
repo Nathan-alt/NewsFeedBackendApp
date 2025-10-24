@@ -1,8 +1,9 @@
 {
     "status": "ok",
-    "totalResults": 1253,
+    "totalResults": 100,
     "articles": [
         {
+            "id": "art_6c4051c1_0",
             "source": {
                 "id": null,
                 "name": "Softwaredoug.com"
@@ -13,9 +14,11 @@
             "url": "https://softwaredoug.com/blog/2025/09/22/reasoning-agents-need-bad-search",
             "urlToImage": "https://softwaredoug.com//assets/media/reasoning-agents-need-bad-search/image%201.png",
             "publishedAt": "2025-09-23T14:17:23Z",
-            "content": "A traditional RAG system often looks like the search weve built for years. An LLM calls a search API. We have query understanding and reranking functionality under the hood. All optimized for user en… [+9873 chars]"
+            "content": "A traditional RAG system often looks like the search weve built for years. An LLM calls a search API. We have query understanding and reranking functionality under the hood. All optimized for user en… [+9873 chars]",
+            "category": "technology"
         },
         {
+            "id": "art_5920f4fa_1",
             "source": {
                 "id": "the-verge",
                 "name": "The Verge"
@@ -26,9 +29,11 @@
             "url": "https://www.theverge.com/news/797890/slack-slackbot-ai-assistant-upgrade",
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/slackbot-ai.png?quality=90&strip=all&crop=0%2C14.487195097204%2C100%2C71.025609805593&w=1200",
             "publishedAt": "2025-10-09T20:19:59Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe revamped Slackbot acts more like an AI companion that can help you create plans, schedule meetings, find files, and more.\r\nThe revamped Slackbot acts more li… [+3927 chars]"
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe revamped Slackbot acts more like an AI companion that can help you create plans, schedule meetings, find files, and more.\r\nThe revamped Slackbot acts more li… [+3927 chars]",
+            "category": "science"
         },
         {
+            "id": "art_5bbabfa0_2",
             "source": {
                 "id": null,
                 "name": "Search Engine Journal"
@@ -39,9 +44,11 @@
             "url": "https://www.searchenginejournal.com/google-answers-seo-question-about-keyword-cannibalization/556472/",
             "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2025/09/google-keyword-cannibalizaton-277.jpg",
             "publishedAt": "2025-09-22T09:17:37Z",
-            "content": "Google’s John Mueller answered a question about a situation where multiple pages were ranking for the same search queries. Mueller affirmed the importance of reducing unnecessary duplication but also… [+4829 chars]"
+            "content": "Google’s John Mueller answered a question about a situation where multiple pages were ranking for the same search queries. Mueller affirmed the importance of reducing unnecessary duplication but also… [+4829 chars]",
+            "category": "technology"
         },
         {
+            "id": "art_94624644_3",
             "source": {
                 "id": null,
                 "name": "Slashdot.org"
@@ -52,9 +59,11 @@
             "url": "https://slashdot.org/story/25/10/01/139248/chinas-k-visa-plans-spark-worries-of-a-talent-flood",
             "urlToImage": "https://a.fsdn.com/sd/topics/china_64.png",
             "publishedAt": "2025-10-01T15:21:00Z",
-            "content": "Immigration anxieties and a challenging job market have sparked an online backlash over China's latest attempt at attracting global talent -- a new visa program announced in August. The program, whic… [+1047 chars]"
+            "content": "Immigration anxieties and a challenging job market have sparked an online backlash over China's latest attempt at attracting global talent -- a new visa program announced in August. The program, whic… [+1047 chars]",
+            "category": "business"
         },
         {
+            "id": "art_2bff68f4_4",
             "source": {
                 "id": null,
                 "name": "Kotaku"
@@ -65,9 +74,11 @@
             "url": "https://kotaku.com/lifetime-access-to-all-in-one-ai-tool-1minai-is-nearly-90-off-and-a-coupon-makes-it-almost-free-2000633673",
             "urlToImage": "https://kotaku.com/app/uploads/2025/10/1MinAI.jpg",
             "publishedAt": "2025-10-10T16:10:53Z",
-            "content": "AI’s all-encompassing usefulness is now well beyond debate. A stellar AI tool is great. An AI tool on sale for 82% off is even better. An AI tool on sale for 82% off that you can also stack with a sp… [+2311 chars]"
+            "content": "AI’s all-encompassing usefulness is now well beyond debate. A stellar AI tool is great. An AI tool on sale for 82% off is even better. An AI tool on sale for 82% off that you can also stack with a sp… [+2311 chars]",
+            "category": "technology"
         },
         {
+            "id": "art_d594c6cc_5",
             "source": {
                 "id": null,
                 "name": "Search Engine Journal"
@@ -78,9 +89,11 @@
             "url": "https://www.searchenginejournal.com/how-ai-mode-will-redefine-paid-search-advertising/555365/",
             "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2025/09/ai-mode-ppc-873.png",
             "publishedAt": "2025-09-22T11:06:42Z",
-            "content": "Search has always been a moving target.\r\nFrom the days when keyword match types and manual cost-per-click (CPCs) gave advertisers a sense of control, to the rise of Shopping ads, automated bidding, a… [+16356 chars]"
+            "content": "Search has always been a moving target.\r\nFrom the days when keyword match types and manual cost-per-click (CPCs) gave advertisers a sense of control, to the rise of Shopping ads, automated bidding, a… [+16356 chars]",
+            "category": "business"
         },
         {
+            "id": "art_5aba971c_6",
             "source": {
                 "id": null,
                 "name": "Android Central"
@@ -91,9 +104,11 @@
             "url": "https://www.androidcentral.com/apps-software/ai/google-veo-steps-up-its-creativity-in-3-1-version-update-for-realism",
             "urlToImage": "https://cdn.mos.cms.futurecdn.net/i6CTkB7tXzR7XWHWkQj6aT-2048-80.jpg",
             "publishedAt": "2025-10-16T12:08:00Z",
-            "content": "What you need to know\r\n<ul><li>Google announced an update to Veo, rolling out as Veo 3.1 for the Gemini app, Gemini API (developers), and more.</li><li>Veo 3.1 boasts more creativity agency for users… [+3222 chars]"
+            "content": "What you need to know\r\n<ul><li>Google announced an update to Veo, rolling out as Veo 3.1 for the Gemini app, Gemini API (developers), and more.</li><li>Veo 3.1 boasts more creativity agency for users… [+3222 chars]",
+            "category": "technology"
         },
         {
+            "id": "art_01cd62a4_7",
             "source": {
                 "id": null,
                 "name": "Xavd.id"
@@ -104,9 +119,11 @@
             "url": "https://xavd.id/blog/post/python-kwargs-in-typescript/",
             "urlToImage": "https://xavd.id/og_img.png",
             "publishedAt": "2025-09-22T08:25:53Z",
-            "content": "My TypeScript function signatures always start small. There's usually an optional argument or two, but the call sites are easy to reason about:\r\nconst greet =(name:string, prefix =\"Hello\")=&gt;`${pre… [+2964 chars]"
+            "content": "My TypeScript function signatures always start small. There's usually an optional argument or two, but the call sites are easy to reason about:\r\nconst greet =(name:string, prefix =\"Hello\")=&gt;`${pre… [+2964 chars]",
+            "category": "technology"
         },
         {
+            "id": "art_040c379e_8",
             "source": {
                 "id": null,
                 "name": "Hipertextual"
@@ -117,9 +134,11 @@
             "url": "https://hipertextual.com/mobile/google-search-live-buscador-ia/",
             "urlToImage": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/06/search-live-001.jpg?fit=1920%2C1082&quality=70&strip=all&ssl=1",
             "publishedAt": "2025-09-24T20:20:00Z",
-            "content": "A unos meses de su presentación durante I/O 2025, Google lanzó Search Live, la nueva función impulsada por IA que revoluciona las búsquedas. Este nuevo modo cambia por completo la forma como utilizas… [+2904 chars]"
+            "content": "A unos meses de su presentación durante I/O 2025, Google lanzó Search Live, la nueva función impulsada por IA que revoluciona las búsquedas. Este nuevo modo cambia por completo la forma como utilizas… [+2904 chars]",
+            "category": "technology"
         },
         {
+            "id": "art_1dd47f00_9",
             "source": {
                 "id": null,
                 "name": "Search Engine Journal"
@@ -130,9 +149,11 @@
             "url": "https://www.searchenginejournal.com/review-signals-gain-influence-in-top-google-local-rankings/556664/",
             "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2025/09/01e469b9-fe44-4f52-b23c-487fd1c7668f-858.jpeg",
             "publishedAt": "2025-09-23T15:31:34Z",
-            "content": "A new analysis from Search Atlas quantifies the interaction between proximity and reviews in local rankings.\r\nProximity drives visibility overall, while review signals become stronger differentiators… [+2876 chars]"
+            "content": "A new analysis from Search Atlas quantifies the interaction between proximity and reviews in local rankings.\r\nProximity drives visibility overall, while review signals become stronger differentiators… [+2876 chars]",
+            "category": "business"
         },
         {
+            "id": "art_02ac3b1b_10",
             "source": {
                 "id": null,
                 "name": "Android Central"
@@ -143,9 +164,11 @@
             "url": "https://www.androidcentral.com/streaming-tv/gemini-for-google-tv-launches-only-a-few-enjoy-smarter-entertainment",
             "urlToImage": "https://cdn.mos.cms.futurecdn.net/Bq8AbCS7PdcjMakgj2Joc8.jpg",
             "publishedAt": "2025-09-23T09:54:00Z",
-            "content": "What you need to know\r\n<ul><li>Google announced today (Sep 22) that it's rolling out its expected major \"Gemini for Google TV\" update, previously teased during CES 2025.</li><li>Users can converse na… [+3847 chars]"
+            "content": "What you need to know\r\n<ul><li>Google announced today (Sep 22) that it's rolling out its expected major \"Gemini for Google TV\" update, previously teased during CES 2025.</li><li>Users can converse na… [+3847 chars]",
+            "category": "business"
         },
         {
+            "id": "art_647f7480_11",
             "source": {
                 "id": null,
                 "name": "Search Engine Journal"
@@ -156,9 +179,11 @@
             "url": "https://www.searchenginejournal.com/prompt-ideas-examples-seo/555409/",
             "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2025/09/ai-prompts-79.png",
             "publishedAt": "2025-10-13T13:20:41Z",
-            "content": "AI provides many ways to augment and assist how SEOs work. From analyzing SERP intent, to brainstorming content strategy for new pages, to running competitive analysis, to producing stakeholder-ready… [+74625 chars]"
+            "content": "AI provides many ways to augment and assist how SEOs work. From analyzing SERP intent, to brainstorming content strategy for new pages, to running competitive analysis, to producing stakeholder-ready… [+74625 chars]",
+            "category": "entertainment"
         },
         {
+            "id": "art_8fa1223c_12",
             "source": {
                 "id": null,
                 "name": "Habr.com"
@@ -169,9 +194,11 @@
             "url": "https://habr.com/ru/articles/955108/#post-content-body",
             "urlToImage": "https://habrastorage.org/getpro/habr/upload_files/72f/327/a19/72f327a1969073f2aac17fa41f9d2f95.png",
             "publishedAt": "2025-10-09T15:42:51Z",
-            "content": ". - Analytics. . . .\r\n« », . .\r\n. . . SEO- . . .\r\n . . 90 . . . . . Schema.org . enterprise-.\r\n , . :\r\n« , ?»\r\n. .\r\n« SEO-. AI-. 98% .»\r\n . . .\r\n, : \r\n 2022 . ChatGPT . . « -. . .» AI-. . . .\r\n2023- … [+21357 chars]"
+            "content": ". - Analytics. . . .\r\n« », . .\r\n. . . SEO- . . .\r\n . . 90 . . . . . Schema.org . enterprise-.\r\n , . :\r\n« , ?»\r\n. .\r\n« SEO-. AI-. 98% .»\r\n . . .\r\n, : \r\n 2022 . ChatGPT . . « -. . .» AI-. . . .\r\n2023- … [+21357 chars]",
+            "category": "technology"
         },
         {
+            "id": "art_dc872a9f_13",
             "source": {
                 "id": null,
                 "name": "Exotext.com"
@@ -182,9 +209,11 @@
             "url": "https://rakhim.exotext.com/examples-are-the-best-documentation",
             "urlToImage": null,
             "publishedAt": "2025-10-09T19:34:36Z",
-            "content": "When I'm searching for docs, 95% of the time a single example would suffice. Yet, 95% of the time I can't find one in any official source.\r\nIt seems that by default formal technical documentation is … [+2101 chars]"
+            "content": "When I'm searching for docs, 95% of the time a single example would suffice. Yet, 95% of the time I can't find one in any official source.\r\nIt seems that by default formal technical documentation is … [+2101 chars]",
+            "category": "technology"
         },
         {
+            "id": "art_b7d30899_14",
             "source": {
                 "id": null,
                 "name": "Techmeme.com"
@@ -195,9 +224,11 @@
             "url": "https://www.techmeme.com/251015/p35",
             "urlToImage": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Veo3.1_Social_v3.width-1300.png",
             "publishedAt": "2025-10-15T16:15:04Z",
-            "content": "About This Page\r\nThis is a Techmeme archive page.\r\nIt shows how the site appeared at 12:15 PM ET, October 15, 2025.\r\nThe most current version of the site as always is available at our home page.\r\nTo … [+164 chars]"
+            "content": "About This Page\r\nThis is a Techmeme archive page.\r\nIt shows how the site appeared at 12:15 PM ET, October 15, 2025.\r\nThe most current version of the site as always is available at our home page.\r\nTo … [+164 chars]",
+            "category": "entertainment"
         },
         {
+            "id": "art_f2e7d891_15",
             "source": {
                 "id": null,
                 "name": "Search Engine Journal"
@@ -208,9 +239,11 @@
             "url": "https://www.searchenginejournal.com/how-to-build-seo-strategies-around-real-customer-behavior/554283/",
             "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2025/08/market-analysis-933.jpg",
             "publishedAt": "2025-10-08T12:00:12Z",
-            "content": "What if your SEO strategy could predict what customers want before they even search?\r\nThe shift from keyword-centric to behavior-driven SEO is important. When you understand why people search, not ju… [+12962 chars]"
+            "content": "What if your SEO strategy could predict what customers want before they even search?\r\nThe shift from keyword-centric to behavior-driven SEO is important. When you understand why people search, not ju… [+12962 chars]",
+            "category": "business"
         },
         {
+            "id": "art_fa5b1cfd_16",
             "source": {
                 "id": null,
                 "name": "heise online"
@@ -221,9 +254,11 @@
             "url": "https://www.heise.de/news/Wikidata-die-weltgroesste-Datenbank-fuer-strukturiertes-Wissen-bietet-MCP-Zugang-10687901.html",
             "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/9/4/7/9/8/6/shutterstock_2314911223-adb0812c9eb3e634.jpg",
             "publishedAt": "2025-10-01T06:20:00Z",
-            "content": "close notice\r\nThis article is also available in\r\n English.\r\nIt was translated with technical assistance and editorially reviewed before publication.\r\nDont show this again.\r\nWikidata, die Datenbank fü… [+2733 chars]"
+            "content": "close notice\r\nThis article is also available in\r\n English.\r\nIt was translated with technical assistance and editorially reviewed before publication.\r\nDont show this again.\r\nWikidata, die Datenbank fü… [+2733 chars]",
+            "category": "entertainment"
         },
         {
+            "id": "art_2af5e98d_17",
             "source": {
                 "id": null,
                 "name": "Semrush.com"
@@ -234,9 +269,11 @@
             "url": "https://www.semrush.com/blog/what-is-keyword-density-and-does-it-matter/",
             "urlToImage": "https://static.semrush.com/blog/uploads/media/fd/b2/fdb25c94ca9467c01afd7f3ccd8549fc/ec14d3192346d28896f4e72b69d518b7/frequently-asked-questions-about-seo-sm-2.png",
             "publishedAt": "2025-09-25T19:14:00Z",
-            "content": "Keyword density is the percentage of times a target keyword appears on a page compared to the total word count, and while it mattered in early SEO, it's now largely irrelevant as a ranking factor.\r\nK… [+1049 chars]"
+            "content": "Keyword density is the percentage of times a target keyword appears on a page compared to the total word count, and while it mattered in early SEO, it's now largely irrelevant as a ranking factor.\r\nK… [+1049 chars]",
+            "category": "entertainment"
         },
         {
+            "id": "art_74e7b3ef_18",
             "source": {
                 "id": null,
                 "name": "Semrush.com"
@@ -247,9 +284,11 @@
             "url": "https://www.semrush.com/blog/what-are-methods-for-keyword-clustering-and-topic-modeling/",
             "urlToImage": "https://static.semrush.com/blog/uploads/media/fd/b2/fdb25c94ca9467c01afd7f3ccd8549fc/ec14d3192346d28896f4e72b69d518b7/frequently-asked-questions-about-seo-sm-2.png",
             "publishedAt": "2025-09-25T19:25:00Z",
-            "content": "Methods for keyword clustering and topic modeling include automated clustering based on search intent, SERP overlap, semantic similarity, and grouping keywords manually.\r\nKeyword clustering and topic… [+606 chars]"
+            "content": "Methods for keyword clustering and topic modeling include automated clustering based on search intent, SERP overlap, semantic similarity, and grouping keywords manually.\r\nKeyword clustering and topic… [+606 chars]",
+            "category": "sports"
         },
         {
+            "id": "art_b8a7182d_19",
             "source": {
                 "id": null,
                 "name": "Semrush.com"
@@ -260,9 +299,11 @@
             "url": "https://www.semrush.com/blog/reddit-keyword-research/",
             "urlToImage": "https://static.semrush.com/blog/uploads/media/f5/3b/f53bc72e8cdfaaa1743c6bfd0b006ea8/e58a12e0034b34038877ec304faf4976/reddit-keyword-research-sm.png",
             "publishedAt": "2025-10-22T09:19:00Z",
-            "content": "Reddit keyword research is the process of analyzing Reddit discussions to discover content opportunities that traditional keyword tools often miss.\r\nThis guide will show you how to do effective Reddi… [+14994 chars]"
+            "content": "Reddit keyword research is the process of analyzing Reddit discussions to discover content opportunities that traditional keyword tools often miss.\r\nThis guide will show you how to do effective Reddi… [+14994 chars]",
+            "category": "entertainment"
         },
         {
+            "id": "art_87b2c039_20",
             "source": {
                 "id": null,
                 "name": "Habr.com"
@@ -273,9 +314,11 @@
             "url": "https://habr.com/ru/articles/948852/#post-content-body",
             "urlToImage": "https://habrastorage.org/getpro/habr/upload_files/18a/71b/d77/18a71bd771415a349ec7830dc79a0631.png",
             "publishedAt": "2025-09-22T08:30:50Z",
-            "content": "Python for Devs REPL Python 3.14. , .\r\nPython 3.14 (REPL), , . REPL . , ? REPL , , .\r\n REPL CPython : , , , , IPython ptpython. Python 3.13, PyREPL. , Tab.\r\n , :\r\n<ul><li> REPL Python 3.14 . Tab impo… [+2740 chars]"
+            "content": "Python for Devs REPL Python 3.14. , .\r\nPython 3.14 (REPL), , . REPL . , ? REPL , , .\r\n REPL CPython : , , , , IPython ptpython. Python 3.13, PyREPL. , Tab.\r\n , :\r\n<ul><li> REPL Python 3.14 . Tab impo… [+2740 chars]",
+            "category": "general"
         },
         {
+            "id": "art_7c9fa4e1_21",
             "source": {
                 "id": null,
                 "name": "Semrush.com"
@@ -286,9 +329,11 @@
             "url": "https://www.semrush.com/blog/why-is-keyword-research-essential-to-content-marketing/",
             "urlToImage": "https://static.semrush.com/blog/uploads/media/fd/b2/fdb25c94ca9467c01afd7f3ccd8549fc/ec14d3192346d28896f4e72b69d518b7/frequently-asked-questions-about-seo-sm-2.png",
             "publishedAt": "2025-09-25T19:03:00Z",
-            "content": "Keyword research is essential to content marketing because it reveals what your target audience actually searches for and helps you create articles around topics that have proven demand.\r\nWithout key… [+1764 chars]"
+            "content": "Keyword research is essential to content marketing because it reveals what your target audience actually searches for and helps you create articles around topics that have proven demand.\r\nWithout key… [+1764 chars]",
+            "category": "business"
         },
         {
+            "id": "art_d5e87440_22",
             "source": {
                 "id": "ign",
                 "name": "IGN"
@@ -299,9 +344,11 @@
             "url": "https://www.ign.com/articles/magic-the-gathering-marvel-spider-man-most-popular-cards",
             "urlToImage": "https://assets-prd.ignimgs.com/2025/09/29/best-cards-header-1759143236764.jpg?width=1280&format=jpg&auto=webp&quality=80",
             "publishedAt": "2025-09-29T17:00:00Z",
-            "content": "The Marvels Spider-Man set\r\n for Magic: The Gathering\r\n is here after months of hype building, and while some cards are already climbing in value\r\n, theres the small matter of, well, playing the game… [+3332 chars]"
+            "content": "The Marvels Spider-Man set\r\n for Magic: The Gathering\r\n is here after months of hype building, and while some cards are already climbing in value\r\n, theres the small matter of, well, playing the game… [+3332 chars]",
+            "category": "entertainment"
         },
         {
+            "id": "art_603b54b9_23",
             "source": {
                 "id": null,
                 "name": "Ryelang.org"
@@ -312,9 +359,11 @@
             "url": "https://ryelang.org/blog/posts/if-as-function-blogpost-working-on-it_ver1/",
             "urlToImage": null,
             "publishedAt": "2025-10-14T14:20:13Z",
-            "content": "HELLO\r\nIn Python, when you write if x &gt; 5: print(\"big\"), you’re using special syntax baked into the language. You can’t change how if works. You can’t compose it, pipe it, or partially apply it. Y… [+8238 chars]"
+            "content": "HELLO\r\nIn Python, when you write if x &gt; 5: print(\"big\"), you’re using special syntax baked into the language. You can’t change how if works. You can’t compose it, pipe it, or partially apply it. Y… [+8238 chars]",
+            "category": "technology"
         },
         {
+            "id": "art_2ea9d8cf_24",
             "source": {
                 "id": null,
                 "name": "Search Engine Journal"
@@ -325,9 +374,11 @@
             "url": "https://www.searchenginejournal.com/when-agents-replace-websites/556461/",
             "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2025/09/agentic-system-294.png",
             "publishedAt": "2025-09-25T13:30:33Z",
-            "content": "Let’s talk about an agentic future. As task-completing agents move from concept to adoption, their impact on how we discover and transact online will be significant. Websites won’t vanish, but in man… [+13914 chars]"
+            "content": "Let’s talk about an agentic future. As task-completing agents move from concept to adoption, their impact on how we discover and transact online will be significant. Websites won’t vanish, but in man… [+13914 chars]",
+            "category": "technology"
         },
         {
+            "id": "art_490e0f35_25",
             "source": {
                 "id": null,
                 "name": "Aivojournal.org"
@@ -338,9 +389,11 @@
             "url": "https://www.aivojournal.org/every-llm-is-its-own-media-channel/",
             "urlToImage": "https://www.aivojournal.org/content/images/size/w1200/2025/10/ChatGPT-Image-Oct-6--2025-at-02_03_37-PM.png",
             "publishedAt": "2025-10-08T07:41:56Z",
-            "content": "Why Marketers Must Treat ChatGPT, Gemini, and Claude as Distinct Discovery Ecosystems\r\nAIVO Journal October 7, 2025\r\nExecutive Summary\r\nMost marketers still optimise for AI visibility as if large lan… [+4133 chars]"
+            "content": "Why Marketers Must Treat ChatGPT, Gemini, and Claude as Distinct Discovery Ecosystems\r\nAIVO Journal October 7, 2025\r\nExecutive Summary\r\nMost marketers still optimise for AI visibility as if large lan… [+4133 chars]",
+            "category": "business"
         },
         {
+            "id": "art_fd0aca9b_26",
             "source": {
                 "id": "techradar",
                 "name": "TechRadar"
@@ -351,9 +404,11 @@
             "url": "https://www.techradar.com/pro/website-building/7-of-the-most-powerful-seo-tools-you-should-be-using",
             "urlToImage": "https://cdn.mos.cms.futurecdn.net/8CfKaJtTivypreUesyghSh.jpg",
             "publishedAt": "2025-09-24T08:17:13Z",
-            "content": "Your website sits buried on page two of Google results while competitors capture the traffic you deserve. You're losing potential customers every day. The problem isn't always your content or your bu… [+11479 chars]"
+            "content": "Your website sits buried on page two of Google results while competitors capture the traffic you deserve. You're losing potential customers every day. The problem isn't always your content or your bu… [+11479 chars]",
+            "category": "technology"
         },
         {
+            "id": "art_d55e7750_27",
             "source": {
                 "id": null,
                 "name": "Search Engine Journal"
@@ -364,9 +419,11 @@
             "url": "https://www.searchenginejournal.com/how-and-why-google-rewrites-your-hard-earned-headlines/558696/",
             "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2025/10/rewrite-headlines-813.jpg",
             "publishedAt": "2025-10-22T13:30:40Z",
-            "content": "TL;DR\r\n<ol><li>Google can and does rewrite headlines and titles frequently. Almost anything on your page could be used.</li><li>The title is not all that matters. The entirety of your page – from the… [+9900 chars]"
+            "content": "TL;DR\r\n<ol><li>Google can and does rewrite headlines and titles frequently. Almost anything on your page could be used.</li><li>The title is not all that matters. The entirety of your page – from the… [+9900 chars]",
+            "category": "technology"
         },
         {
+            "id": "art_0c12aaee_28",
             "source": {
                 "id": null,
                 "name": "Semrush.com"
@@ -377,9 +434,11 @@
             "url": "https://www.semrush.com/blog/what-factors-influence-my-ppc-campaign-success/",
             "urlToImage": "https://static.semrush.com/blog/uploads/media/fd/b2/fdb25c94ca9467c01afd7f3ccd8549fc/ec14d3192346d28896f4e72b69d518b7/frequently-asked-questions-about-seo-sm-2.png",
             "publishedAt": "2025-09-24T14:20:00Z",
-            "content": "The factors that influence your PPC campaign success depend on choosing the right keywords, creating compelling ads, and directing traffic to relevant landing pages that convert visitors into custome… [+1348 chars]"
+            "content": "The factors that influence your PPC campaign success depend on choosing the right keywords, creating compelling ads, and directing traffic to relevant landing pages that convert visitors into custome… [+1348 chars]",
+            "category": "entertainment"
         },
         {
+            "id": "art_00dd102c_29",
             "source": {
                 "id": null,
                 "name": "MakeUseOf"
@@ -390,9 +449,11 @@
             "url": "https://www.makeuseof.com/google-fi-new-features/",
             "urlToImage": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/10/google-fi-wireless-displayed-on-iphone.jpg?w=1600&h=900&fit=crop",
             "publishedAt": "2025-10-21T20:18:09Z",
-            "content": "While Google Fi Wireless doesnt have the same name recognition as Verizon, AT&amp;T, or T-Mobile, that doesn't mean the tech giant isn't making major moves to change that.\r\nToday, Google announced a … [+2448 chars]"
+            "content": "While Google Fi Wireless doesnt have the same name recognition as Verizon, AT&amp;T, or T-Mobile, that doesn't mean the tech giant isn't making major moves to change that.\r\nToday, Google announced a … [+2448 chars]",
+            "category": "technology"
         },
         {
+            "id": "art_ed5112e3_30",
             "source": {
                 "id": null,
                 "name": "Forbes"
@@ -403,9 +464,11 @@
             "url": "https://www.forbes.com/sites/sindiswamabunda/2025/09/30/e1-racing-in-lagos-team-drogba-pilots-lead-e1-racings-african-debut/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68dc0f784bf674c457f4f0ad/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2025-09-30T17:57:31Z",
-            "content": "Team Drogba Will Compete In The First Ever E1 Series In Lagos, Nigeria \r\nSupplied/E1\r\nThe waters of Lagos are set to make sporting history as the UIM E1 World Championship arrives on African shores f… [+8451 chars]"
+            "content": "Team Drogba Will Compete In The First Ever E1 Series In Lagos, Nigeria \r\nSupplied/E1\r\nThe waters of Lagos are set to make sporting history as the UIM E1 World Championship arrives on African shores f… [+8451 chars]",
+            "category": "sports"
         },
         {
+            "id": "art_f758b09e_31",
             "source": {
                 "id": null,
                 "name": "GameSpot"
@@ -416,9 +479,11 @@
             "url": "https://www.gamespot.com/articles/hearthstone-across-the-timeways-fabled-card-reveal-druid/1100-6535305/",
             "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1585/15855271/4582034-hs34.0_keyart_final_vertical.jpg",
             "publishedAt": "2025-10-10T16:00:00Z",
-            "content": "Hearthstone's next expansion is coming on November 4, and it's about time. The Across the Timeways expansion introduces multiple new mechanics revolving around celebrating past and present Warcraft h… [+1784 chars]"
+            "content": "Hearthstone's next expansion is coming on November 4, and it's about time. The Across the Timeways expansion introduces multiple new mechanics revolving around celebrating past and present Warcraft h… [+1784 chars]",
+            "category": "entertainment"
         },
         {
+            "id": "art_c8f8389d_32",
             "source": {
                 "id": null,
                 "name": "Semrush.com"
@@ -429,9 +494,11 @@
             "url": "https://www.semrush.com/blog/what-are-common-seo-mistakes-to-avoid/",
             "urlToImage": "https://static.semrush.com/blog/uploads/media/fd/b2/fdb25c94ca9467c01afd7f3ccd8549fc/ec14d3192346d28896f4e72b69d518b7/frequently-asked-questions-about-seo-sm-2.png",
             "publishedAt": "2025-09-24T14:29:00Z",
-            "content": "Common SEO mistakes to avoid include duplicate content, slow page speeds, poor mobile optimization, and weak keyword research that prevent your website from ranking well in search results.\r\nThese mis… [+1567 chars]"
+            "content": "Common SEO mistakes to avoid include duplicate content, slow page speeds, poor mobile optimization, and weak keyword research that prevent your website from ranking well in search results.\r\nThese mis… [+1567 chars]",
+            "category": "science"
         },
         {
+            "id": "art_19e1f4c0_33",
             "source": {
                 "id": null,
                 "name": "Mental Floss"
@@ -442,9 +509,11 @@
             "url": "https://www.mentalfloss.com/language/slang/most-searched-slang-terms-2025",
             "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_540,w_5184,h_2916/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/GettyImages/mmsport/mentalfloss/01k5w3entm7ym2pc1prd.jpg",
             "publishedAt": "2025-09-24T22:01:00Z",
-            "content": "If youve ever wondered what the young people around you are talking about nowadays, youre not alone. It's tough to keep up with language when its constantly evolving. To see which new words and phras… [+3470 chars]"
+            "content": "If youve ever wondered what the young people around you are talking about nowadays, youre not alone. It's tough to keep up with language when its constantly evolving. To see which new words and phras… [+3470 chars]",
+            "category": "general"
         },
         {
+            "id": "art_c4a0c838_34",
             "source": {
                 "id": null,
                 "name": "Substack.com"
@@ -455,9 +524,11 @@
             "url": "https://axx83.substack.com/p/the-case-for-spaces-a-new-vision",
             "urlToImage": "https://substackcdn.com/image/fetch/$s_!fcKn!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5885d414-b02d-45ed-b50a-ce5b61c8b709_250x250.png",
             "publishedAt": "2025-09-24T18:17:17Z",
-            "content": "Summary\r\nThis proposal introduces a new, high-level architectural primitive for C# called a Space. The core philosophy is to unify two historically conflicting worlds of programming into a single, co… [+28689 chars]"
+            "content": "Summary\r\nThis proposal introduces a new, high-level architectural primitive for C# called a Space. The core philosophy is to unify two historically conflicting worlds of programming into a single, co… [+28689 chars]",
+            "category": "science"
         },
         {
+            "id": "art_f5a34636_35",
             "source": {
                 "id": null,
                 "name": "GSMArena.com"
@@ -468,9 +539,11 @@
             "url": "https://www.gsmarena.com/qualcomm_buys_arduino_unveils_arduino_uno_q_and_arduino_app_lab-news-69834.php",
             "urlToImage": "https://fdn.gsmarena.com/imgroot/news/25/10/qualcomm-buys-arduino/-952x498w6/gsmarena_000.jpg",
             "publishedAt": "2025-10-07T20:51:02Z",
-            "content": "Today Qualcomm has announced that it's buying Arduino, which will remain an independent brand that will continue to support \"a large range of microcontrollers and microprocessors from multiple semico… [+1316 chars]"
+            "content": "Today Qualcomm has announced that it's buying Arduino, which will remain an independent brand that will continue to support \"a large range of microcontrollers and microprocessors from multiple semico… [+1316 chars]",
+            "category": "business"
         },
         {
+            "id": "art_5f4f8832_36",
             "source": {
                 "id": null,
                 "name": "Wpbeginner.com"
@@ -481,9 +554,11 @@
             "url": "https://www.wpbeginner.com/showcase/best-semrush-alternatives-for-bloggers/",
             "urlToImage": "https://www.wpbeginner.com/wp-content/uploads/2025/09/semrush-alternatives-og.png",
             "publishedAt": "2025-10-22T10:00:00Z",
-            "content": "Semrush has always been my favorite go-to tool for SEO research. Unfortunately, it comes with a hefty price tag that can’t always be justified, especially for small businesses just getting started.\r\n… [+29196 chars]"
+            "content": "Semrush has always been my favorite go-to tool for SEO research. Unfortunately, it comes with a hefty price tag that can’t always be justified, especially for small businesses just getting started.\r\n… [+29196 chars]",
+            "category": "business"
         },
         {
+            "id": "art_93b025c1_37",
             "source": {
                 "id": null,
                 "name": "Search Engine Journal"
@@ -494,9 +569,11 @@
             "url": "https://www.searchenginejournal.com/how-structured-data-shapes-ai-snippets-and-extends-your-visibility-quota/558018/",
             "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2025/10/structured-data-496.jpg",
             "publishedAt": "2025-10-15T12:00:50Z",
-            "content": "When conversational AIs like ChatGPT, Perplexity, or Google AI Mode generate snippets or answer summaries, they’re not writing from scratch, they’re picking, compressing, and reassembling what webpag… [+9389 chars]"
+            "content": "When conversational AIs like ChatGPT, Perplexity, or Google AI Mode generate snippets or answer summaries, they’re not writing from scratch, they’re picking, compressing, and reassembling what webpag… [+9389 chars]",
+            "category": "technology"
         },
         {
+            "id": "art_719c0740_38",
             "source": {
                 "id": null,
                 "name": "Element.io"
@@ -507,9 +584,11 @@
             "url": "https://element.io/blog/new-element-web-and-desktop-apps-have-distinct-element-x-vibes/",
             "urlToImage": "https://element.io/blog/content/images/2025/09/Left-panel-update__blog-1.png",
             "publishedAt": "2025-09-23T15:44:13Z",
-            "content": "The brand new updates of the Element Web and Desktop apps include a major rework of room listings. It brings the laptop and PC versions of the Element apps in line with the Element X design on mobile… [+4149 chars]"
+            "content": "The brand new updates of the Element Web and Desktop apps include a major rework of room listings. It brings the laptop and PC versions of the Element apps in line with the Element X design on mobile… [+4149 chars]",
+            "category": "business"
         },
         {
+            "id": "art_2c66ca3a_39",
             "source": {
                 "id": null,
                 "name": "Phoronix"
@@ -520,9 +599,11 @@
             "url": "https://www.phoronix.com/news/Linux-6.18-Transitional",
             "urlToImage": "https://www.phoronix.net/image.php?id=2025&image=kconfig_transitional",
             "publishedAt": "2025-09-30T12:57:37Z",
-            "content": "The hardening pull request landed this Kconfig \"transitional\" support as it's renaming the \"CONFIG_CFI_CLANG\" option to just \"CLANG_CFI\" now that the GCC compiler is also adding control flow integrit… [+1339 chars]"
+            "content": "The hardening pull request landed this Kconfig \"transitional\" support as it's renaming the \"CONFIG_CFI_CLANG\" option to just \"CLANG_CFI\" now that the GCC compiler is also adding control flow integrit… [+1339 chars]",
+            "category": "general"
         },
         {
+            "id": "art_2c8e5a58_40",
             "source": {
                 "id": "t3n",
                 "name": "T3n"
@@ -533,9 +614,11 @@
             "url": "https://t3n.de/news/google-ads-kosten-1707853/",
             "urlToImage": "https://cdn.t3n.de/news/wp-content/uploads/2025/09/1200x674_Google-Ads.jpg?class=content",
             "publishedAt": "2025-10-12T13:30:00Z",
-            "content": "Verpasse keine News mehr!\r\nKosten von Google Ads: Preise, Budgets und Tipps zur Kostenoptimierung\r\nSuchmaschinenwerbung mit Google Ads gehört zu den wichtigsten Marketinginstrumenten für Unternehmen … [+3211 chars]"
+            "content": "Verpasse keine News mehr!\r\nKosten von Google Ads: Preise, Budgets und Tipps zur Kostenoptimierung\r\nSuchmaschinenwerbung mit Google Ads gehört zu den wichtigsten Marketinginstrumenten für Unternehmen … [+3211 chars]",
+            "category": "business"
         },
         {
+            "id": "art_7f9def21_41",
             "source": {
                 "id": null,
                 "name": "Theregister.com"
@@ -546,9 +629,11 @@
             "url": "https://www.theregister.com/2025/10/10/openai_gpt5_bias/",
             "urlToImage": "https://regmedia.co.uk/2022/10/05/justice_shutterstock.jpg",
             "publishedAt": "2025-10-10T20:20:11Z",
-            "content": "OpenAI says GPT-5 has 30 percent less political bias than its prior AI models.\r\nThat's a difficult claim to assess, given that AI model bias has been an issue since machine learning became a thing, a… [+3468 chars]"
+            "content": "OpenAI says GPT-5 has 30 percent less political bias than its prior AI models.\r\nThat's a difficult claim to assess, given that AI model bias has been an issue since machine learning became a thing, a… [+3468 chars]",
+            "category": "technology"
         },
         {
+            "id": "art_1f51d920_42",
             "source": {
                 "id": null,
                 "name": "9to5Mac"
@@ -559,9 +644,11 @@
             "url": "https://9to5mac.com/2025/09/30/security-bite-so-what-happened-to-cross-platform-e2ee-for-rcs-messaging/",
             "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/Copy-of-Untitled-Design.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
             "publishedAt": "2025-10-01T01:10:47Z",
-            "content": "9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform.Making Apple devices work-ready and enterprise-safe is all we do. Our unique integrated approach to mana… [+4228 chars]"
+            "content": "9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform.Making Apple devices work-ready and enterprise-safe is all we do. Our unique integrated approach to mana… [+4228 chars]",
+            "category": "technology"
         },
         {
+            "id": "art_abde73bb_43",
             "source": {
                 "id": null,
                 "name": "Smashingapps.com"
@@ -572,9 +659,11 @@
             "url": "https://www.smashingapps.com/android-lockdown-750-million-users-upgrade/",
             "urlToImage": "https://www.smashingapps.com/wp-content/uploads/2025/10/Android-Lockdown-and-Why-750-Million-Users-May-Need-to-Upgrade.webp",
             "publishedAt": "2025-10-07T06:51:01Z",
-            "content": "Click here to buy secure, speedy, and reliable Web hosting, Cloud hosting, Agency hosting, VPS hosting, Website builder, Business email, Reach email marketing at 20% discount from our Gold Partner Ho… [+9630 chars]"
+            "content": "Click here to buy secure, speedy, and reliable Web hosting, Cloud hosting, Agency hosting, VPS hosting, Website builder, Business email, Reach email marketing at 20% discount from our Gold Partner Ho… [+9630 chars]",
+            "category": "business"
         },
         {
+            "id": "art_63b08905_44",
             "source": {
                 "id": null,
                 "name": "Android Police"
@@ -585,9 +674,11 @@
             "url": "https://www.androidpolice.com/better-spotify-with-chatgpt/",
             "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/10/a-pair-of-floating-headphones-encircling-the-spotify-and-chatgpt-logos-with-smartphone-screens-displaying-playlists-in-the-background.png?w=1600&h=900&fit=crop",
             "publishedAt": "2025-10-21T13:20:10Z",
-            "content": "With the entirety of recorded music history at my fingertips, where do I even begin? This is a modern listeners dilemma. When presented with infinite options, our brains can enter a state of decision… [+4881 chars]"
+            "content": "With the entirety of recorded music history at my fingertips, where do I even begin? This is a modern listeners dilemma. When presented with infinite options, our brains can enter a state of decision… [+4881 chars]",
+            "category": "entertainment"
         },
         {
+            "id": "art_5c905bdf_45",
             "source": {
                 "id": null,
                 "name": "Android Police"
@@ -598,9 +689,11 @@
             "url": "https://www.androidpolice.com/broke-up-with-gmail-for-this-app/",
             "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/10/illustration-of-the-spark-mail-logo-centered-surrounded-by-broken-gmail-icons-and-paper-planes.png?w=1600&h=900&fit=crop",
             "publishedAt": "2025-10-10T11:02:10Z",
-            "content": "You probably have a Gmail account. With over 1.8 billion of us on the platform, it's less an email service and more a piece of critical public infrastructure.\r\nFor years, I ran my life and my busines… [+5076 chars]"
+            "content": "You probably have a Gmail account. With over 1.8 billion of us on the platform, it's less an email service and more a piece of critical public infrastructure.\r\nFor years, I ran my life and my busines… [+5076 chars]",
+            "category": "health"
         },
         {
+            "id": "art_c2803f62_46",
             "source": {
                 "id": null,
                 "name": "Smashingapps.com"
@@ -611,9 +704,11 @@
             "url": "https://www.smashingapps.com/android-lockdown-750-million-users-may-need-to-upgrade/",
             "urlToImage": "https://www.smashingapps.com/wp-content/uploads/2025/10/Android-Lockdown-and-Why-750-Million-Users-May-Need-to-Upgrade.webp",
             "publishedAt": "2025-10-07T06:51:01Z",
-            "content": "Click here to buy secure, speedy, and reliable Web hosting, Cloud hosting, Agency hosting, VPS hosting, Website builder, Business email, Reach email marketing at 20% discount from our Gold Partner Ho… [+8952 chars]"
+            "content": "Click here to buy secure, speedy, and reliable Web hosting, Cloud hosting, Agency hosting, VPS hosting, Website builder, Business email, Reach email marketing at 20% discount from our Gold Partner Ho… [+8952 chars]",
+            "category": "business"
         },
         {
+            "id": "art_0a949369_47",
             "source": {
                 "id": null,
                 "name": "Semrush.com"
@@ -624,9 +719,11 @@
             "url": "https://www.semrush.com/blog/how-can-i-reduce-my-ppc-costs/",
             "urlToImage": "https://static.semrush.com/blog/uploads/media/fd/b2/fdb25c94ca9467c01afd7f3ccd8549fc/ec14d3192346d28896f4e72b69d518b7/frequently-asked-questions-about-seo-sm-2.png",
             "publishedAt": "2025-09-25T19:21:00Z",
-            "content": "You can reduce PPC costs by improving Quality Score, refining keyword targeting, using negative keywords, optimizing ad scheduling, and by continuously testing and refining your campaigns.\r\nReducing … [+1583 chars]"
+            "content": "You can reduce PPC costs by improving Quality Score, refining keyword targeting, using negative keywords, optimizing ad scheduling, and by continuously testing and refining your campaigns.\r\nReducing … [+1583 chars]",
+            "category": "sports"
         },
         {
+            "id": "art_977dfbf1_48",
             "source": {
                 "id": null,
                 "name": "Slate Magazine"
@@ -637,9 +734,11 @@
             "url": "https://slate.com/technology/2025/10/job-search-artificial-intelligence-chatgpt-resume-cover-letter.html",
             "urlToImage": "https://compote.slate.com/images/314451f9-fd3a-4873-9f2a-325d2f23775d.jpeg?crop=1560%2C1040%2Cx0%2Cy10&width=1560",
             "publishedAt": "2025-10-06T17:30:00Z",
-            "content": "Sign up for the Slatest to get the most insightful analysis, criticism, and advice out there, delivered to your inbox daily.\r\nI got laid off five months ago. Every morning I drink a pot of coffee whi… [+7899 chars]"
+            "content": "Sign up for the Slatest to get the most insightful analysis, criticism, and advice out there, delivered to your inbox daily.\r\nI got laid off five months ago. Every morning I drink a pot of coffee whi… [+7899 chars]",
+            "category": "technology"
         },
         {
+            "id": "art_9b42ef81_49",
             "source": {
                 "id": null,
                 "name": "Nicolasbustamante.com"
@@ -650,9 +749,11 @@
             "url": "https://www.nicolasbustamante.com/p/the-rag-obituary-killed-by-agents",
             "urlToImage": "https://substackcdn.com/image/fetch/$s_!FdFS!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1c2a29c2-a06e-480a-947c-0e42edb9d1f0_1024x1536.png",
             "publishedAt": "2025-10-01T16:51:58Z",
-            "content": "Ive been working in AI and search for a decade. First building Doctrine, the largest European legal search engine and now building Fintool, an AI-powered financial research platform that helps instit… [+20650 chars]"
+            "content": "Ive been working in AI and search for a decade. First building Doctrine, the largest European legal search engine and now building Fintool, an AI-powered financial research platform that helps instit… [+20650 chars]",
+            "category": "science"
         },
         {
+            "id": "art_b7c5dd32_50",
             "source": {
                 "id": null,
                 "name": "Search Engine Journal"
@@ -663,9 +764,11 @@
             "url": "https://www.searchenginejournal.com/how-ai-is-redefining-search-and-what-leaders-must-do-now/554927/",
             "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2025/09/ai-search-468.png",
             "publishedAt": "2025-10-02T14:48:44Z",
-            "content": "Artificial intelligence is transforming how people search, discover, and act on information. For chief marketing officers and senior leaders, this is not a question of whether SEO is “dead” but of ho… [+12108 chars]"
+            "content": "Artificial intelligence is transforming how people search, discover, and act on information. For chief marketing officers and senior leaders, this is not a question of whether SEO is “dead” but of ho… [+12108 chars]",
+            "category": "business"
         },
         {
+            "id": "art_ce28ffda_51",
             "source": {
                 "id": null,
                 "name": "Mathspp.com"
@@ -676,9 +779,11 @@
             "url": "https://mathspp.com/blog/pydonts/functions-a-complete-reference",
             "urlToImage": "https://mathspp.com/blog/pydonts/functions-a-complete-reference/thumbnail.webp",
             "publishedAt": "2025-10-06T07:00:00Z",
-            "content": "Functions are the basic building block of any Python program you write, and yet, many developers don't leverage their full potential.\r\nYou will fix that by reading this article.\r\nKnowing how to use t… [+45097 chars]"
+            "content": "Functions are the basic building block of any Python program you write, and yet, many developers don't leverage their full potential.\r\nYou will fix that by reading this article.\r\nKnowing how to use t… [+45097 chars]",
+            "category": "general"
         },
         {
+            "id": "art_b0f48883_52",
             "source": {
                 "id": null,
                 "name": "Semrush.com"
@@ -689,9 +794,11 @@
             "url": "https://www.semrush.com/blog/what-is-seo-in-blogging/",
             "urlToImage": "https://static.semrush.com/blog/uploads/media/fd/b2/fdb25c94ca9467c01afd7f3ccd8549fc/ec14d3192346d28896f4e72b69d518b7/frequently-asked-questions-about-seo-sm-2.png",
             "publishedAt": "2025-09-24T14:08:00Z",
-            "content": "SEO in blogging is the practice of optimizing your blog posts so they appear higher in Google search results and attract more readers who are looking for information you provide.\r\nThis brings unpaid,… [+1406 chars]"
+            "content": "SEO in blogging is the practice of optimizing your blog posts so they appear higher in Google search results and attract more readers who are looking for information you provide.\r\nThis brings unpaid,… [+1406 chars]",
+            "category": "sports"
         },
         {
+            "id": "art_1d7ba135_53",
             "source": {
                 "id": null,
                 "name": "Semrush.com"
@@ -702,9 +809,11 @@
             "url": "https://www.semrush.com/blog/how-long-does-it-take-to-learn-seo/",
             "urlToImage": "https://static.semrush.com/blog/uploads/media/fd/b2/fdb25c94ca9467c01afd7f3ccd8549fc/ec14d3192346d28896f4e72b69d518b7/frequently-asked-questions-about-seo-sm-2.png",
             "publishedAt": "2025-09-24T14:05:00Z",
-            "content": "Learning SEO takes 4-6 weeks with consistent daily practice, while becoming proficient enough to run campaigns takes 3-6 months of hands-on experience.\r\nYour timeline depends on how much time you ded… [+1302 chars]"
+            "content": "Learning SEO takes 4-6 weeks with consistent daily practice, while becoming proficient enough to run campaigns takes 3-6 months of hands-on experience.\r\nYour timeline depends on how much time you ded… [+1302 chars]",
+            "category": "sports"
         },
         {
+            "id": "art_b5f63f2e_54",
             "source": {
                 "id": null,
                 "name": "Semrush.com"
@@ -715,9 +824,11 @@
             "url": "https://www.semrush.com/blog/how-to-optimize-images-for-seo/",
             "urlToImage": "https://static.semrush.com/blog/uploads/media/fd/b2/fdb25c94ca9467c01afd7f3ccd8549fc/ec14d3192346d28896f4e72b69d518b7/frequently-asked-questions-about-seo-sm-2.png",
             "publishedAt": "2025-09-24T14:37:00Z",
-            "content": "You optimize images for SEO by using descriptive filenames, writing accurate alt text, compressing files for fast loading, and ensuring mobile responsiveness.\r\nStart with keyword-rich filenames and a… [+1173 chars]"
+            "content": "You optimize images for SEO by using descriptive filenames, writing accurate alt text, compressing files for fast loading, and ensuring mobile responsiveness.\r\nStart with keyword-rich filenames and a… [+1173 chars]",
+            "category": "sports"
         },
         {
+            "id": "art_1a38bcd1_55",
             "source": {
                 "id": null,
                 "name": "Stonecharioteer.com"
@@ -728,9 +839,11 @@
             "url": "https://tech.stonecharioteer.com/posts/2025/ruby-blocks/",
             "urlToImage": "https://tech.stonecharioteer.com/images/posts/ruby/blocks-everywhere.png",
             "publishedAt": "2025-10-14T15:58:27Z",
-            "content": "I think I’m really starting to get Ruby. At least I can read Ruby and tell you what’s happening.\r\nI haven’t read a single tutorial on RSpec, the testing framework we use at\r\nChatwoot for the Rails ba… [+7045 chars]"
+            "content": "I think I’m really starting to get Ruby. At least I can read Ruby and tell you what’s happening.\r\nI haven’t read a single tutorial on RSpec, the testing framework we use at\r\nChatwoot for the Rails ba… [+7045 chars]",
+            "category": "technology"
         },
         {
+            "id": "art_c53474b7_56",
             "source": {
                 "id": null,
                 "name": "Search Engine Journal"
@@ -741,9 +854,11 @@
             "url": "https://www.searchenginejournal.com/vector-index-hygiene-a-new-layer-of-technical-seo/557210/",
             "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2025/09/vector-hygiene-59.png",
             "publishedAt": "2025-10-02T13:30:43Z",
-            "content": "For years, technical SEO has been about crawlability, structured data, canonical tags, sitemaps, and speed. All the plumbing that makes pages accessible and indexable. That work still matters. But in… [+9109 chars]"
+            "content": "For years, technical SEO has been about crawlability, structured data, canonical tags, sitemaps, and speed. All the plumbing that makes pages accessible and indexable. That work still matters. But in… [+9109 chars]",
+            "category": "technology"
         },
         {
+            "id": "art_66336f50_57",
             "source": {
                 "id": null,
                 "name": "Search Engine Journal"
@@ -754,9 +869,11 @@
             "url": "https://www.searchenginejournal.com/and-the-truth-this-writing-style-screams-ai/555854/",
             "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2025/09/ai-writing-883.jpg",
             "publishedAt": "2025-09-24T10:36:04Z",
-            "content": "Six months ago, you could spot AI-generated text by its polished grammar, rigid essay structure, suspicious fondness for em dashes – and, of course, the inevitable emoji bullets (✨). The real giveawa… [+10592 chars]"
+            "content": "Six months ago, you could spot AI-generated text by its polished grammar, rigid essay structure, suspicious fondness for em dashes – and, of course, the inevitable emoji bullets (✨). The real giveawa… [+10592 chars]",
+            "category": "technology"
         },
         {
+            "id": "art_1c40be0d_58",
             "source": {
                 "id": null,
                 "name": "Habr.com"
@@ -767,9 +884,11 @@
             "url": "https://habr.com/ru/articles/958598/#post-content-body",
             "urlToImage": "https://habrastorage.org/getpro/habr/upload_files/928/5f5/68c/9285f568cb5e337a99cd3f2fac1d37cd.png",
             "publishedAt": "2025-10-21T08:52:51Z",
-            "content": ": \r\n , , . Django, Requests SQLAlchemy - , :\r\ndef some_important_method(self, *args, **kwargs):\r\n # ... - , \r\n: « *args? kwargs ? , ? - , ?»\r\n? , . . Python, , .\r\n*args**kwargs , - . , , - \"\" .\r\n 1: … [+10300 chars]"
+            "content": ": \r\n , , . Django, Requests SQLAlchemy - , :\r\ndef some_important_method(self, *args, **kwargs):\r\n # ... - , \r\n: « *args? kwargs ? , ? - , ?»\r\n? , . . Python, , .\r\n*args**kwargs , - . , , - \"\" .\r\n 1: … [+10300 chars]",
+            "category": "general"
         },
         {
+            "id": "art_7355d128_59",
             "source": {
                 "id": null,
                 "name": "ClickZ"
@@ -780,9 +899,11 @@
             "url": "https://www.clickz.com/reporting-from-tfm-2025-ai-data-and-the-next-wave-of-marketing/270207/",
             "urlToImage": "https://www.clickz.com/wp-content/uploads/2025/10/trump_piece__1_-4.jpg",
             "publishedAt": "2025-10-03T19:46:26Z",
-            "content": "Rules still have a place, but agents change the game by analyzing signals, deciding which levers to pull, and executing at scale. For brands just starting out, Dorjee suggests focusing on behavior-ba… [+386 chars]"
+            "content": "Rules still have a place, but agents change the game by analyzing signals, deciding which levers to pull, and executing at scale. For brands just starting out, Dorjee suggests focusing on behavior-ba… [+386 chars]",
+            "category": "business"
         },
         {
+            "id": "art_96bfd722_60",
             "source": {
                 "id": null,
                 "name": "Semrush.com"
@@ -793,9 +914,11 @@
             "url": "https://www.semrush.com/blog/perplexity-ai-optimization/",
             "urlToImage": "",
             "publishedAt": "2025-10-02T07:33:00Z",
-            "content": "A recent analysis from Metehan Yeilyurt, Co-Founder and Chief Growth Officer at AEO Vision, uncovers information on how Perplexity may rank content.\r\nKnowing about potential Perplexity ranking factor… [+8324 chars]"
+            "content": "A recent analysis from Metehan Yeilyurt, Co-Founder and Chief Growth Officer at AEO Vision, uncovers information on how Perplexity may rank content.\r\nKnowing about potential Perplexity ranking factor… [+8324 chars]",
+            "category": "entertainment"
         },
         {
+            "id": "art_598ae8cf_61",
             "source": {
                 "id": null,
                 "name": "Smashingapps.com"
@@ -806,9 +929,11 @@
             "url": "https://www.smashingapps.com/microsoft-365-copilot-brings-vibe-working/",
             "urlToImage": "https://www.smashingapps.com/wp-content/uploads/2025/10/Microsoft-365-Copilot-Brings-Vibe-Working-to-Excel-Word-and-Copilot-Chat.jpg",
             "publishedAt": "2025-10-01T15:08:21Z",
-            "content": "Click here to buy secure, speedy, and reliable Web hosting, Cloud hosting, Agency hosting, VPS hosting, Website builder, Business email, Reach email marketing at 20% discount from our Gold Partner Ho… [+10939 chars]"
+            "content": "Click here to buy secure, speedy, and reliable Web hosting, Cloud hosting, Agency hosting, VPS hosting, Website builder, Business email, Reach email marketing at 20% discount from our Gold Partner Ho… [+10939 chars]",
+            "category": "business"
         },
         {
+            "id": "art_35ae2840_62",
             "source": {
                 "id": null,
                 "name": "Googleblog.com"
@@ -819,9 +944,11 @@
             "url": "https://workspaceupdates.googleblog.com/2025/09/learning-guide-notebook-lm-workspace-education.html",
             "urlToImage": "",
             "publishedAt": "2025-09-23T16:55:00Z",
-            "content": "What’s changing We're introducing a new “Learning Guide” option that encourages participation with probing, open-ended questions. Instead of just giving answers, it helps you break down problems step… [+1228 chars]"
+            "content": "What’s changing We're introducing a new “Learning Guide” option that encourages participation with probing, open-ended questions. Instead of just giving answers, it helps you break down problems step… [+1228 chars]",
+            "category": "technology"
         },
         {
+            "id": "art_bd9fa58c_63",
             "source": {
                 "id": null,
                 "name": "Search Engine Journal"
@@ -832,9 +959,11 @@
             "url": "https://www.searchenginejournal.com/seo-content-audit-aligning-for-performance-purpose-llm-visibility/556584/",
             "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2025/10/content-audit-650.jpg",
             "publishedAt": "2025-10-21T11:30:53Z",
-            "content": "A major category, focus, or pillar (as I have defined it for decades) of SEO is content. Influencing a range of on-page factors, but more so to develop authentic context and authority status over the… [+8773 chars]"
+            "content": "A major category, focus, or pillar (as I have defined it for decades) of SEO is content. Influencing a range of on-page factors, but more so to develop authentic context and authority status over the… [+8773 chars]",
+            "category": "entertainment"
         },
         {
+            "id": "art_5af9cc28_64",
             "source": {
                 "id": null,
                 "name": "MakeUseOf"
@@ -845,9 +974,11 @@
             "url": "https://www.makeuseof.com/i-use-email-drafts-as-notes-and-its-weirdly-effective/",
             "urlToImage": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/09/a-laptop-screen-showing-gmail-inbox-with-drafts-folder-selected.jpg?w=1600&h=900&fit=crop",
             "publishedAt": "2025-09-24T18:00:15Z",
-            "content": "There's no shortage of note-taking apps today. From feature-rich note apps like Evernote and Notion to open-source options like Logseq or Standard Notes, it seems like every productivity problem alre… [+4856 chars]"
+            "content": "There's no shortage of note-taking apps today. From feature-rich note apps like Evernote and Notion to open-source options like Logseq or Standard Notes, it seems like every productivity problem alre… [+4856 chars]",
+            "category": "technology"
         },
         {
+            "id": "art_34512c29_65",
             "source": {
                 "id": null,
                 "name": "MakeUseOf"
@@ -858,9 +989,11 @@
             "url": "https://www.makeuseof.com/ditto-open-source-clipboard-manager-windows/",
             "urlToImage": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/09/ditto-settings-dialog-open-on-a-hp-pavillion-laptop.jpg?w=1600&h=900&fit=crop",
             "publishedAt": "2025-10-03T14:01:21Z",
-            "content": "Windows 11 has a half-decent built-in clipboard managerpress Win + V, and you can access the last 25 copied items from the clipboard history. But as soon as you restart your PC, everything vanishes, … [+5055 chars]"
+            "content": "Windows 11 has a half-decent built-in clipboard managerpress Win + V, and you can access the last 25 copied items from the clipboard history. But as soon as you restart your PC, everything vanishes, … [+5055 chars]",
+            "category": "technology"
         },
         {
+            "id": "art_3db86801_66",
             "source": {
                 "id": null,
                 "name": "MakeUseOf"
@@ -871,9 +1004,11 @@
             "url": "https://www.makeuseof.com/hate-netflix-changed-my-watch-list-moved-to-letterboxd/",
             "urlToImage": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/10/the-homepage-of-the-letterboxd-website.jpg?w=1600&h=900&fit=crop",
             "publishedAt": "2025-10-19T00:00:16Z",
-            "content": "Among the most popular streaming platforms, Netflix was consistently my favorite to navigate. The size of the tiles, in addition to the number, is just enough that you aren't presented with too many … [+4647 chars]"
+            "content": "Among the most popular streaming platforms, Netflix was consistently my favorite to navigate. The size of the tiles, in addition to the number, is just enough that you aren't presented with too many … [+4647 chars]",
+            "category": "entertainment"
         },
         {
+            "id": "art_3250150d_67",
             "source": {
                 "id": null,
                 "name": "The Indian Express"
@@ -884,9 +1019,11 @@
             "url": "https://indianexpress.com/article/horoscope/virgo-horoscope-today-08-october-2025-daily-astrology-prediction-for-virgo-career-finance-money-love-10292175/",
             "urlToImage": "https://images.indianexpress.com/2024/05/Virgo-2.jpg",
             "publishedAt": "2025-10-08T00:30:56Z",
-            "content": "Virgo Horoscope Prediction Today, 08 October 2025: A vague sense of worry may follow you today. Ganesha notes that fearespecially of the unknowncould weigh more heavily as the hours pass. You may fin… [+1531 chars]"
+            "content": "Virgo Horoscope Prediction Today, 08 October 2025: A vague sense of worry may follow you today. Ganesha notes that fearespecially of the unknowncould weigh more heavily as the hours pass. You may fin… [+1531 chars]",
+            "category": "technology"
         },
         {
+            "id": "art_ce0585df_68",
             "source": {
                 "id": null,
                 "name": "Hubspot.com"
@@ -897,9 +1034,11 @@
             "url": "https://blog.hubspot.com/marketing/ai-search-diversification#article",
             "urlToImage": "https://53.fs1.hubspotusercontent-na1.net/hubfs/53/%5BUse%20(1)-3.webp",
             "publishedAt": "2025-09-23T13:15:18Z",
-            "content": "Picture this: Content visibility is up, but traffic to your website is way down. More than half of Google searches today end in no clicks, according to Search Engine Land. And consumers are looking e… [+11388 chars]"
+            "content": "Picture this: Content visibility is up, but traffic to your website is way down. More than half of Google searches today end in no clicks, according to Search Engine Land. And consumers are looking e… [+11388 chars]",
+            "category": "business"
         },
         {
+            "id": "art_fb579835_69",
             "source": {
                 "id": null,
                 "name": "Search Engine Journal"
@@ -910,9 +1049,11 @@
             "url": "https://www.searchenginejournal.com/ppc-trends-2026-ai-automation-and-the-fight-for-visibility/558870/",
             "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2025/10/ppc-trends-2026-featured-879.png",
             "publishedAt": "2025-10-22T14:00:41Z",
-            "content": "If you manage PPC campaigns, you’ve seen it. Platforms are making more decisions without asking you first.\r\nCampaign types keep consolidating into AI-first formats like Performance Max and Demand Gen… [+5702 chars]"
+            "content": "If you manage PPC campaigns, you’ve seen it. Platforms are making more decisions without asking you first.\r\nCampaign types keep consolidating into AI-first formats like Performance Max and Demand Gen… [+5702 chars]",
+            "category": "business"
         },
         {
+            "id": "art_5e594104_70",
             "source": {
                 "id": null,
                 "name": "Search Engine Journal"
@@ -923,9 +1064,11 @@
             "url": "https://www.searchenginejournal.com/google-announces-a-new-era-for-voice-search/558866/",
             "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2025/10/google-voice-search-230.jpg",
             "publishedAt": "2025-10-21T10:17:09Z",
-            "content": "Google announced an update to its voice search, which changes how voice search queries are processed and then ranked. The new AI model uses speech as input for the search and ranking process, complet… [+5135 chars]"
+            "content": "Google announced an update to its voice search, which changes how voice search queries are processed and then ranked. The new AI model uses speech as input for the search and ranking process, complet… [+5135 chars]",
+            "category": "technology"
         },
         {
+            "id": "art_d1ef16e8_71",
             "source": {
                 "id": null,
                 "name": "Search Engine Journal"
@@ -936,9 +1079,11 @@
             "url": "https://www.searchenginejournal.com/googles-ai-mode-what-we-know-what-experts-think/555482/",
             "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2025/09/shutterstock_2284898109-993.jpg",
             "publishedAt": "2025-10-06T13:00:34Z",
-            "content": "AI Mode is Google’s most powerful AI search experience, providing answers to complex questions in a way that anticipates the user’s information needs. Although Google says that nothing special needs … [+19155 chars]"
+            "content": "AI Mode is Google’s most powerful AI search experience, providing answers to complex questions in a way that anticipates the user’s information needs. Although Google says that nothing special needs … [+19155 chars]",
+            "category": "technology"
         },
         {
+            "id": "art_fd5a982c_72",
             "source": {
                 "id": null,
                 "name": "Forbes"
@@ -949,9 +1094,11 @@
             "url": "https://www.forbes.com/sites/ewanspence/2025/10/21/google-pixel-andoird-16-qpr2-beta-3-bugfix-bootloader-lockup/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67e81e796e3b9386f2a9e8a4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2025-10-21T17:06:19Z",
-            "content": "Google Keyword Blog\r\nGoogle has announced a patch for users of the very latest version of Android, which should be applied as soon as possible.\r\nThe bug fix does not apply to users running the regula… [+1261 chars]"
+            "content": "Google Keyword Blog\r\nGoogle has announced a patch for users of the very latest version of Android, which should be applied as soon as possible.\r\nThe bug fix does not apply to users running the regula… [+1261 chars]",
+            "category": "technology"
         },
         {
+            "id": "art_b3d3f8cf_73",
             "source": {
                 "id": null,
                 "name": "Ppchero.com"
@@ -962,9 +1109,11 @@
             "url": "https://ppchero.com/from-price-comparison-pioneer-to-google-css-expert-how-to-dominate-your-niche-on-google-shopping/",
             "urlToImage": "https://ppchero.com/wp-content/uploads/2025/10/niche.png",
             "publishedAt": "2025-10-14T08:16:16Z",
-            "content": "Over a decade ago, I was the founder and CEO of a thriving international price comparison company. Back then, our business was booming: seven-digit monthly ad spends with Google, eight-digit revenues… [+5633 chars]"
+            "content": "Over a decade ago, I was the founder and CEO of a thriving international price comparison company. Back then, our business was booming: seven-digit monthly ad spends with Google, eight-digit revenues… [+5633 chars]",
+            "category": "business"
         },
         {
+            "id": "art_a77c56a6_74",
             "source": {
                 "id": null,
                 "name": "Googleblog.com"
@@ -975,9 +1124,11 @@
             "url": "https://workspaceupdates.googleblog.com/2025/10/google-keep-reminders-now-saved-to-tasks.html",
             "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNYFwbYpt8q1tbVyjUStoH5s4XwqMnWvz_To_ZH6xn-z5ay3iUjQ7cXNIP4OxTFP_bHxTCSP1utZQiQL7f0MViOiFEXkRsHb2-cDz0NtIj1hKTyNMRz9LI4c6UoDwf4mlPS7hnmHiKGriOOZE92aaAHU9L8bIW_JgOUHdoxzbfuGUNsG8HSq2MG3TPQk4/w1200-h630-p-k-no-nu/keep%20to%20Tasks%20migration.gif",
             "publishedAt": "2025-10-14T14:56:00Z",
-            "content": "What’s changing As announced last year, Keep reminders will be automatically saved to Tasks. This means that now users can view their Keep reminders as tasks in Calendar, in the Tasks app, and even a… [+1436 chars]"
+            "content": "What’s changing As announced last year, Keep reminders will be automatically saved to Tasks. This means that now users can view their Keep reminders as tasks in Calendar, in the Tasks app, and even a… [+1436 chars]",
+            "category": "technology"
         },
         {
+            "id": "art_2570c5bc_75",
             "source": {
                 "id": null,
                 "name": "XDA Developers"
@@ -988,9 +1139,11 @@
             "url": "https://www.xda-developers.com/tiny-self-hosting-tools-that-save-hours-every-week/",
             "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2025/05/best-free-pdf-editor.jpeg?w=1600&h=900&fit=crop",
             "publishedAt": "2025-10-05T22:00:21Z",
-            "content": "If you are like me, you love the idea of self-hosting, but hate the thought of endless configuration and maintenance. The truth is, self-hosting doesnt have to be a major time sink it can actually be… [+5351 chars]"
+            "content": "If you are like me, you love the idea of self-hosting, but hate the thought of endless configuration and maintenance. The truth is, self-hosting doesnt have to be a major time sink it can actually be… [+5351 chars]",
+            "category": "entertainment"
         },
         {
+            "id": "art_50e49124_76",
             "source": {
                 "id": null,
                 "name": "XDA Developers"
@@ -1001,9 +1154,11 @@
             "url": "https://www.xda-developers.com/notebooklm-google-drive-search-integration/",
             "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/10/notebooklm-discover-sources-drive-feature.jpg?w=1600&h=900&fit=crop",
             "publishedAt": "2025-10-08T06:03:44Z",
-            "content": "NotebookLM's biggest advantage is that it remains grounded in sources you upload. What this essentially means is that the tool only references material you've uploaded to a specific notebook (or info… [+3905 chars]"
+            "content": "NotebookLM's biggest advantage is that it remains grounded in sources you upload. What this essentially means is that the tool only references material you've uploaded to a specific notebook (or info… [+3905 chars]",
+            "category": "technology"
         },
         {
+            "id": "art_1bfdd2b0_77",
             "source": {
                 "id": null,
                 "name": "PCWorld"
@@ -1014,9 +1169,11 @@
             "url": "https://www.pcworld.com/article/2918617/is-windows-recall-storing-your-confidential-data-how-to-protect-yourself.html",
             "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/10/laptop-on-floor-no-recall-final.png?w=1024",
             "publishedAt": "2025-10-21T13:00:00Z",
-            "content": "Skip to contentWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nRecall is a feature in Windows 11 that regularly cre… [+8977 chars]"
+            "content": "Skip to contentWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nRecall is a feature in Windows 11 that regularly cre… [+8977 chars]",
+            "category": "technology"
         },
         {
+            "id": "art_dbc0105b_78",
             "source": {
                 "id": null,
                 "name": "Mental Floss"
@@ -1027,9 +1184,11 @@
             "url": "https://www.mentalfloss.com/geography/maps/most-searched-breakfast-food-map",
             "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_419,w_8192,h_4608/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/GettyImages/mmsport/mentalfloss/01k6dry6r4xw3namyyet.jpg",
             "publishedAt": "2025-10-06T18:01:00Z",
-            "content": "Breakfast is often referred to as the most important meal of the day, as it sets the tone for how we feel and perform throughout the morning. That said, each states taste isnt the same. So what are t… [+5075 chars]"
+            "content": "Breakfast is often referred to as the most important meal of the day, as it sets the tone for how we feel and perform throughout the morning. That said, each states taste isnt the same. So what are t… [+5075 chars]",
+            "category": "entertainment"
         },
         {
+            "id": "art_f014b080_79",
             "source": {
                 "id": null,
                 "name": "Anthropic.com"
@@ -1040,9 +1199,11 @@
             "url": "https://www.anthropic.com/research/small-samples-poison",
             "urlToImage": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Puzzle&backgroundColor=heather",
             "publishedAt": "2025-10-09T16:04:04Z",
-            "content": "In a joint study with the UK AI Security Institute and the Alan Turing Institute, we found that as few as 250 malicious documents can produce a \"backdoor\" vulnerability in a large language modelregar… [+11703 chars]"
+            "content": "In a joint study with the UK AI Security Institute and the Alan Turing Institute, we found that as few as 250 malicious documents can produce a \"backdoor\" vulnerability in a large language modelregar… [+11703 chars]",
+            "category": "science"
         },
         {
+            "id": "art_ddcb3296_80",
             "source": {
                 "id": null,
                 "name": "Github.com"
@@ -1053,9 +1214,11 @@
             "url": "https://github.com/mijnverbruik/dsmr",
             "urlToImage": "https://opengraph.githubassets.com/0932aa78972933cfdaa419f3997967f0a6e4e71e7192e22ecc126fc5815e3935/mijnverbruik/dsmr",
             "publishedAt": "2025-10-06T13:13:18Z",
-            "content": "A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data.\r\nDSMR is the standardized protocol used by smart energy meters in the Netherlands, Belgium, and Luxembourg. These smart mete… [+9670 chars]"
+            "content": "A library for parsing Dutch Smart Meter Requirements (DSMR) telegram data.\r\nDSMR is the standardized protocol used by smart energy meters in the Netherlands, Belgium, and Luxembourg. These smart mete… [+9670 chars]",
+            "category": "technology"
         },
         {
+            "id": "art_0b3af3c0_81",
             "source": {
                 "id": null,
                 "name": "Digiday"
@@ -1066,9 +1229,11 @@
             "url": "http://digiday.com/marketing/why-advertisers-are-quietly-returning-to-news-driven-media-channels/",
             "urlToImage": "https://digiday.com/wp-content/uploads/sites/3/2025/10/brand-suitability-digiday.jpg",
             "publishedAt": "2025-10-09T04:01:00Z",
-            "content": "Brand safety was never just about steering clear of violence, nudity or hate speech. It was always about brand suitability and that threshold isnt fixed. It’s only gotten worse as phrases like divers… [+4718 chars]"
+            "content": "Brand safety was never just about steering clear of violence, nudity or hate speech. It was always about brand suitability and that threshold isnt fixed. It’s only gotten worse as phrases like divers… [+4718 chars]",
+            "category": "business"
         },
         {
+            "id": "art_b099cd7f_82",
             "source": {
                 "id": null,
                 "name": "Digiday"
@@ -1079,9 +1244,11 @@
             "url": "http://digiday.com/sponsored/in-the-age-of-ai-search-a-domain-is-a-critical-differentiator/",
             "urlToImage": "https://digiday.com/wp-content/uploads/sites/3/2022/10/Inkhouse-banner-FNL-3.jpg",
             "publishedAt": "2025-10-16T15:13:51Z",
-            "content": "Domain extensions, or top-level domains (TLDs), have been around for decades. As the internet continues its rapid expansion, traditional TLDs have been claimed with increasing frequency, making it di… [+5115 chars]"
+            "content": "Domain extensions, or top-level domains (TLDs), have been around for decades. As the internet continues its rapid expansion, traditional TLDs have been claimed with increasing frequency, making it di… [+5115 chars]",
+            "category": "business"
         },
         {
+            "id": "art_76339e16_83",
             "source": {
                 "id": null,
                 "name": "Help Net Security"
@@ -1092,9 +1259,11 @@
             "url": "https://www.helpnetsecurity.com/2025/10/09/loki-scam-websites-search-queries/",
             "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2025/10/06091056/danger-monitor-1500.webp",
             "publishedAt": "2025-10-09T05:30:41Z",
-            "content": "Scam websites tied to online shopping, pet sales, and other e-commerce schemes continue to cause millions in losses each year. Security tools can accurately detect fraudulent sites once they are foun… [+5566 chars]"
+            "content": "Scam websites tied to online shopping, pet sales, and other e-commerce schemes continue to cause millions in losses each year. Security tools can accurately detect fraudulent sites once they are foun… [+5566 chars]",
+            "category": "science"
         },
         {
+            "id": "art_9ec9eef3_84",
             "source": {
                 "id": null,
                 "name": "Digiday"
@@ -1105,9 +1274,11 @@
             "url": "http://digiday.com/marketing/how-brands-and-retailers-are-preparing-for-geo-the-future-of-seo/",
             "urlToImage": "https://digiday.com/wp-content/uploads/sites/3/2025/08/ai-listening-digiday.jpg",
             "publishedAt": "2025-09-25T04:01:00Z",
-            "content": "After years of retooling their businesses for search engines, brand and retail leaders say theyre getting ready for a new frontier: GEO.The term, which means generative engine optimization, refers to… [+6272 chars]"
+            "content": "After years of retooling their businesses for search engines, brand and retail leaders say theyre getting ready for a new frontier: GEO.The term, which means generative engine optimization, refers to… [+6272 chars]",
+            "category": "business"
         },
         {
+            "id": "art_bc050150_85",
             "source": {
                 "id": null,
                 "name": "40fakes.com"
@@ -1118,9 +1289,11 @@
             "url": "https://40fakes.com/movierulz-2025-the-piracy-site-google-cant-seem-to-hide/",
             "urlToImage": "https://40fakes.com/wp-content/uploads/2025/10/movierulz-2025-google.webp",
             "publishedAt": "2025-10-07T10:13:37Z",
-            "content": "In 2025, movierulz 2025 outranked several blockbuster titles on Google Indias trending search list. But heres the twist it wasnt the name of a film. It was the name of a piracy portal.\r\nMovierulz, a … [+2885 chars]"
+            "content": "In 2025, movierulz 2025 outranked several blockbuster titles on Google Indias trending search list. But heres the twist it wasnt the name of a film. It was the name of a piracy portal.\r\nMovierulz, a … [+2885 chars]",
+            "category": "entertainment"
         },
         {
+            "id": "art_85266142_86",
             "source": {
                 "id": null,
                 "name": "Classmethod.jp"
@@ -1131,9 +1304,11 @@
             "url": "https://dev.classmethod.jp/articles/claude-code/",
             "urlToImage": "https://images.ctfassets.net/ct0aopd36mqt/wp-thumbnail-75c24212db08a605cf51b1578f9a040c/f14b12b1b1cf9b5ed2427490ff86734d/eyecatch_anthropic",
             "publishedAt": "2025-10-10T06:06:04Z",
-            "content": "Claude Code\r\n<ol><li>Claude Code</li><li></li><li></li></ol>\r\nBacklog GitHub Wiki \r\n<ol><li>Claude Code</li></ol>\r\nbacklog-exporterClaude Code\r\nclaude_output Claude Code\r\n<ol><li></li></ol>\r\n {this.i… [+7361 chars]"
+            "content": "Claude Code\r\n<ol><li>Claude Code</li><li></li><li></li></ol>\r\nBacklog GitHub Wiki \r\n<ol><li>Claude Code</li></ol>\r\nbacklog-exporterClaude Code\r\nclaude_output Claude Code\r\n<ol><li></li></ol>\r\n {this.i… [+7361 chars]",
+            "category": "technology"
         },
         {
+            "id": "art_3eeb355e_87",
             "source": {
                 "id": null,
                 "name": "Bleeding Cool News"
@@ -1144,9 +1319,11 @@
             "url": "https://bleedingcool.com/games/marvel-snap-reveals-new-undead-horde-season-update-for-halloween/",
             "urlToImage": "https://bleedingcool.com/wp-content/uploads/2025/10/Marvel-Snap-Undead-Horde-2025.jpg",
             "publishedAt": "2025-10-03T01:49:04Z",
-            "content": "Posted in: Games, Marvel Snap, Mobile Games | Tagged: marvel, Second Dinner\r\nAs part of Halloween, Marvel Snap has released a new seasonal update bringing Marvel Zombies to the game with the Undead H… [+2565 chars]"
+            "content": "Posted in: Games, Marvel Snap, Mobile Games | Tagged: marvel, Second Dinner\r\nAs part of Halloween, Marvel Snap has released a new seasonal update bringing Marvel Zombies to the game with the Undead H… [+2565 chars]",
+            "category": "entertainment"
         },
         {
+            "id": "art_fc7ef3d9_88",
             "source": {
                 "id": null,
                 "name": "Diamond.jp"
@@ -1157,9 +1334,11 @@
             "url": "https://diamond.jp/articles/-/374877",
             "urlToImage": "https://dol.ismcdn.jp/mwimgs/8/3/-/img_839878a81460d7d8caa393c3b6d3e34d234159.jpg",
             "publishedAt": "2025-10-15T19:45:00Z",
-            "content": "rolling recession\r\nsector-by-sector at different times\r\nGDP\r\n9\r\nThe economy has been much weaker for many companies and consumers over the past 3 years than what the headline economic statistics like… [+38 chars]"
+            "content": "rolling recession\r\nsector-by-sector at different times\r\nGDP\r\n9\r\nThe economy has been much weaker for many companies and consumers over the past 3 years than what the headline economic statistics like… [+38 chars]",
+            "category": "business"
         },
         {
+            "id": "art_0cf288e9_89",
             "source": {
                 "id": null,
                 "name": "Diamond.jp"
@@ -1170,9 +1349,11 @@
             "url": "https://diamond.jp/articles/-/373908",
             "urlToImage": "https://dol.ismcdn.jp/mwimgs/e/f/-/img_ef41068f21a1727377814a7a5d3ae7bb219075.jpg",
             "publishedAt": "2025-10-01T19:30:00Z",
-            "content": "6semiannual reporting\r\n3quarterly reportingshort-termism9SNS\r\nThis will save money,and allow managers to focus on properly running their companies.Did you ever hear the statement that,China has a 50 … [+123 chars]"
+            "content": "6semiannual reporting\r\n3quarterly reportingshort-termism9SNS\r\nThis will save money,and allow managers to focus on properly running their companies.Did you ever hear the statement that,China has a 50 … [+123 chars]",
+            "category": "general"
         },
         {
+            "id": "art_d461838b_90",
             "source": {
                 "id": null,
                 "name": "Smashingapps.com"
@@ -1183,9 +1364,11 @@
             "url": "https://www.smashingapps.com/7-seo-chrome-extensions-every-writer-needs/",
             "urlToImage": "https://www.smashingapps.com/wp-content/uploads/2025/10/7-SEO-Chrome-Extensions-Every-Writer-Needs.jpg",
             "publishedAt": "2025-10-16T21:11:32Z",
-            "content": "Click here to buy secure, speedy, and reliable Web hosting, Cloud hosting, Agency hosting, VPS hosting, Website builder, Business email, Reach email marketing at 20% discount from our Gold Partner Ho… [+9301 chars]"
+            "content": "Click here to buy secure, speedy, and reliable Web hosting, Cloud hosting, Agency hosting, VPS hosting, Website builder, Business email, Reach email marketing at 20% discount from our Gold Partner Ho… [+9301 chars]",
+            "category": "business"
         },
         {
+            "id": "art_c81f5af9_91",
             "source": {
                 "id": null,
                 "name": "MakeUseOf"
@@ -1196,9 +1379,11 @@
             "url": "https://www.makeuseof.com/free-open-source-tool-new-favorite-way-to-capture-notes/",
             "urlToImage": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/09/memos-note-app-accessible-on-your-browser.jpg?w=1600&h=900&fit=crop",
             "publishedAt": "2025-09-28T18:00:16Z",
-            "content": "Most note-taking apps try to do everything. They want to be your document editor, project manager, database, and social network all at once. After years of jumping between bloated platforms that prom… [+6391 chars]"
+            "content": "Most note-taking apps try to do everything. They want to be your document editor, project manager, database, and social network all at once. After years of jumping between bloated platforms that prom… [+6391 chars]",
+            "category": "technology"
         },
         {
+            "id": "art_93e29f50_92",
             "source": {
                 "id": null,
                 "name": "Forbes"
@@ -1209,9 +1394,11 @@
             "url": "https://www.forbes.com/sites/kolawolesamueladebayo/2025/10/21/how-ai-is-helping-businesses-stay-off-the-fraud-blacklist/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68f7bdbda50405b51fdd5b14/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2025-10-21T17:16:19Z",
-            "content": "AI is reshaping fraud detection, helping businesses avoid wrongful blacklisting and rebuild trust in financial systems.\r\ngetty\r\nIn early 2024, The Guardian reported that U.K. engineering firm Arup lo… [+7181 chars]"
+            "content": "AI is reshaping fraud detection, helping businesses avoid wrongful blacklisting and rebuild trust in financial systems.\r\ngetty\r\nIn early 2024, The Guardian reported that U.K. engineering firm Arup lo… [+7181 chars]",
+            "category": "business"
         },
         {
+            "id": "art_c68f68fd_93",
             "source": {
                 "id": null,
                 "name": "Semrush.com"
@@ -1222,9 +1409,11 @@
             "url": "https://www.semrush.com/blog/how-do-you-improve-seo-on-amazon/",
             "urlToImage": "https://static.semrush.com/blog/uploads/media/fd/b2/fdb25c94ca9467c01afd7f3ccd8549fc/ec14d3192346d28896f4e72b69d518b7/frequently-asked-questions-about-seo-sm-2.png",
             "publishedAt": "2025-09-24T14:13:00Z",
-            "content": "You improve Amazon SEO by optimizing your product listings with relevant keywords, high-quality images, and competitive pricing to increase visibility in Amazon search results.\r\nAmazon SEO focuses on… [+1310 chars]"
+            "content": "You improve Amazon SEO by optimizing your product listings with relevant keywords, high-quality images, and competitive pricing to increase visibility in Amazon search results.\r\nAmazon SEO focuses on… [+1310 chars]",
+            "category": "sports"
         },
         {
+            "id": "art_e85a4791_94",
             "source": {
                 "id": null,
                 "name": "Googleblog.com"
@@ -1235,9 +1424,11 @@
             "url": "https://workspaceupdates.googleblog.com/2025/09/nano-banana-image-editing-gemini-slides-vids.html",
             "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikMLSWYdqomfrpObaZlCJax2BnO9rRJE6MDI1OFhxlnFyNlF3OSqiqExZUm5VA1XBQi2Gc8rqt-Z4xmuxuBwKsNsc6LiaZBMz-jV-N4pu-L5UQIoEKaNu9H1BMR4K7wPYDejpL1g2BZhmE7r7aqZb5V1WSjMLzuiDBPyXkiL281CNPJ7gXNuaTmZSY4gE/w1200-h630-p-k-no-nu/nano%20Banana%20image%20editing%20slides.gif",
             "publishedAt": "2025-09-29T18:00:00Z",
-            "content": "What’s changing We’re upgrading Slides and Vids to the latest image editing model, Nano Banana. As recently detailed in this blog post, Nano Banana brings improved quality to image editing to make it… [+2290 chars]"
+            "content": "What’s changing We’re upgrading Slides and Vids to the latest image editing model, Nano Banana. As recently detailed in this blog post, Nano Banana brings improved quality to image editing to make it… [+2290 chars]",
+            "category": "technology"
         },
         {
+            "id": "art_cf9bed48_95",
             "source": {
                 "id": null,
                 "name": "Forbes"
@@ -1248,9 +1439,11 @@
             "url": "https://www.forbes.com/sites/robinryan/2025/09/30/how-to-identify-ats-resume-keywords-step-by-step/",
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68d978b51bd7b9012a7efffe/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2025-09-30T16:00:00Z",
-            "content": "Finding the right keywords is crucial for getting past an ATS and putting your resume into the hands of the hiring manager.\r\ngetty\r\nThe applicant tracking system, often referred to as ATS, is the emp… [+8877 chars]"
+            "content": "Finding the right keywords is crucial for getting past an ATS and putting your resume into the hands of the hiring manager.\r\ngetty\r\nThe applicant tracking system, often referred to as ATS, is the emp… [+8877 chars]",
+            "category": "technology"
         },
         {
+            "id": "art_aa1f9569_96",
             "source": {
                 "id": null,
                 "name": "Semrush.com"
@@ -1261,9 +1454,11 @@
             "url": "https://www.semrush.com/blog/geo-vs-seo/",
             "urlToImage": "",
             "publishedAt": "2025-09-26T12:20:00Z",
-            "content": "Search is changing. Fast.\r\nSearch engine optimization (SEO) helps your content rank in Googles search results. \r\nGenerative engine optimization (GEO) helps your content appear and get cited in AI ans… [+11022 chars]"
+            "content": "Search is changing. Fast.\r\nSearch engine optimization (SEO) helps your content rank in Googles search results. \r\nGenerative engine optimization (GEO) helps your content appear and get cited in AI ans… [+11022 chars]",
+            "category": "business"
         },
         {
+            "id": "art_419651ee_97",
             "source": {
                 "id": null,
                 "name": "Search Engine Journal"
@@ -1274,9 +1469,11 @@
             "url": "https://www.searchenginejournal.com/what-openai-research-reveals-about-future-of-search/556725/",
             "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2025/09/ai-data-17.jpg",
             "publishedAt": "2025-09-30T11:31:00Z",
-            "content": "The launch of ChatGPT in 2022 didn’t so much cause a shift in the search landscape as trigger a series of seismic events. And, like seismologists, the SEO industry needs data if it’s to predict futur… [+12245 chars]"
+            "content": "The launch of ChatGPT in 2022 didn’t so much cause a shift in the search landscape as trigger a series of seismic events. And, like seismologists, the SEO industry needs data if it’s to predict futur… [+12245 chars]",
+            "category": "business"
         },
         {
+            "id": "art_d4d98a7c_98",
             "source": {
                 "id": null,
                 "name": "Search Engine Journal"
@@ -1287,9 +1484,11 @@
             "url": "https://www.searchenginejournal.com/review-of-aeo-geo-tactics-leads-to-a-surprising-seo-insight/558796/",
             "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2025/10/aeo-seo-google-414.jpg",
             "publishedAt": "2025-10-20T21:41:29Z",
-            "content": "GEO/AEO is criticized by SEOs who claim that it’s just SEO at best and unsupported lies at worst. Are SEOs right, or are they just defending their turf? Bing recently published a guide to AI search v… [+7337 chars]"
+            "content": "GEO/AEO is criticized by SEOs who claim that it’s just SEO at best and unsupported lies at worst. Are SEOs right, or are they just defending their turf? Bing recently published a guide to AI search v… [+7337 chars]",
+            "category": "entertainment"
         },
         {
+            "id": "art_34912b93_99",
             "source": {
                 "id": "techradar",
                 "name": "TechRadar"
@@ -1300,7 +1499,8 @@
             "url": "https://www.techradar.com/ai-platforms-assistants/ai-hr-is-my-ongoing-nightmare",
             "urlToImage": "https://cdn.mos.cms.futurecdn.net/Pxd7tQ5H85D7ANvwiEGoNn.jpg",
             "publishedAt": "2025-09-22T14:00:00Z",
-            "content": "I used to sweat for days over the phrasing in my resume and how to craft the perfect \"interested but not desperate\" salutation for a cover letter. I was certain that the magic words would at least un… [+4903 chars]"
+            "content": "I used to sweat for days over the phrasing in my resume and how to craft the perfect \"interested but not desperate\" salutation for a cover letter. I was certain that the magic words would at least un… [+4903 chars]",
+            "category": "technology"
         }
     ]
 }

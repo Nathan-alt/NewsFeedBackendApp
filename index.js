@@ -4,6 +4,9 @@ const path = require('path');
 const app = express();
 const PORT = process.env.PORT || 3000;
 
+// API Key for authentication
+const API_KEY = 'nfba_2024_secure_key_xyz789';
+
 // Load articles data from response.json
 const DATA_FILE_PATH = path.join(__dirname, 'response.json');
 let articles = [];
@@ -13,8 +16,8 @@ function loadArticlesFromFile() {
         const raw = fs.readFileSync(DATA_FILE_PATH, 'utf8');
         const parsed = JSON.parse(raw);
         const arr = Array.isArray(parsed.articles) ? parsed.articles : [];
-        // Attach a stable in-memory id based on array index
-        articles = arr.map((a, index) => ({ id: index.toString(), ...a }));
+        // Use the IDs that are already in the JSON file
+        articles = arr;
     } catch (err) {
         console.error('Failed to load response.json:', err.message);
         articles = [];
@@ -26,6 +29,27 @@ loadArticlesFromFile();
 // Middleware to parse JSON bodies
 app.use(express.json());
 
+// API Key middleware
+function authenticateApiKey(req, res, next) {
+    const apiKey = req.headers['x-api-key'] || req.query.apiKey;
+    
+    if (!apiKey) {
+        return res.status(401).json({ 
+            error: 'API key required',
+            message: 'Please provide API key in header (x-api-key) or query parameter (apiKey)'
+        });
+    }
+    
+    if (apiKey !== API_KEY) {
+        return res.status(403).json({ 
+            error: 'Invalid API key',
+            message: 'The provided API key is not valid'
+        });
+    }
+    
+    next();
+}
+
 // Hello World endpoint
 app.get('/', (req, res) => {
     res.json({
@@ -34,8 +58,8 @@ app.get('/', (req, res) => {
     });
 });
 
-// GET /api/articles - Get all articles (paginated) - returns only title and image
-app.get('/api/articles', (req, res) => {
+// GET /api/articles - Get all articles (paginated) - returns title, image, and category
+app.get('/api/articles', authenticateApiKey, (req, res) => {
     const page = Math.max(parseInt(req.query.page || '1', 10), 1);
     const limit = Math.max(parseInt(req.query.limit || '20', 10), 1);
     const start = (page - 1) * limit;
@@ -45,23 +69,14 @@ app.get('/api/articles', (req, res) => {
     const data = articles.slice(start, end).map(article => ({
         id: article.id,
         title: article.title,
-        image: article.urlToImage
+        image: article.urlToImage,
+        category: article.category
     }));
     res.json({ page, limit, total, totalPages, data });
 });
 
-// GET /api/articles/:id - Get single article
-app.get('/api/articles/:id', (req, res) => {
-    const { id } = req.params;
-    const article = articles.find(a => a.id === id);
-    if (!article) {
-        return res.status(404).json({ error: 'Article not found' });
-    }
-    res.json(article);
-});
-
 // GET /api/articles/search?q= - Search articles by keyword
-app.get('/api/articles/search', (req, res) => {
+app.get('/api/articles/search', authenticateApiKey, (req, res) => {
     const q = (req.query.q || '').toString().trim();
     if (!q) {
         return res.status(400).json({ error: 'Missing query parameter q' });
@@ -80,8 +95,18 @@ app.get('/api/articles/search', (req, res) => {
     res.json({ query: q, total: results.length, data: results });
 });
 
+// GET /api/articles/:id - Get single article
+app.get('/api/articles/:id', authenticateApiKey, (req, res) => {
+    const { id } = req.params;
+    const article = articles.find(a => a.id === id);
+    if (!article) {
+        return res.status(404).json({ error: 'Article not found' });
+    }
+    res.json(article);
+});
+
 // GET /api/categories - Get available categories from categories.json
-app.get('/api/categories', (req, res) => {
+app.get('/api/categories', authenticateApiKey, (req, res) => {
     try {
         const categoriesData = JSON.parse(fs.readFileSync(path.join(__dirname, 'categories.json'), 'utf8'));
         res.json({ 
@@ -94,16 +119,24 @@ app.get('/api/categories', (req, res) => {
     }
 });
 
-// GET /api/articles/category/:name - Get articles by category (source.name)
-app.get('/api/articles/category/:name', (req, res) => {
-    const name = req.params.name;
-    const target = name.toLowerCase();
-    const filtered = articles.filter(a => (a?.source?.name || '').toLowerCase() === target);
+// GET /api/articles/category/:name - Get articles by category
+app.get('/api/articles/category/:name', authenticateApiKey, (req, res) => {
+    const name = req.params.name.toLowerCase();
+    const validCategories = ['business', 'entertainment', 'general', 'health', 'science', 'sports', 'technology'];
+    
+    if (!validCategories.includes(name)) {
+        return res.status(400).json({ 
+            error: 'Invalid category', 
+            validCategories 
+        });
+    }
+    
+    const filtered = articles.filter(a => a.category === name);
     res.json({ category: name, total: filtered.length, data: filtered });
 });
 
 // POST /api/articles/refresh - Reload from response.json
-app.post('/api/articles/refresh', (req, res) => {
+app.post('/api/articles/refresh', authenticateApiKey, (req, res) => {
     const before = articles.length;
     loadArticlesFromFile();
     const after = articles.length;
