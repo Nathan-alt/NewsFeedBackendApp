@@ -1,39 +1,25 @@
 {
   "categories": [
     {
-      "id": "business",
-      "name": "Business",
-      "description": "Business news, finance, and economic updates"
+      "name": "Business"
     },
     {
-      "id": "entertainment", 
-      "name": "Entertainment",
-      "description": "Movies, music, TV shows, and celebrity news"
+      "name": "Entertainment"
     },
     {
-      "id": "general",
-      "name": "General",
-      "description": "General news and current events"
+      "name": "General"
     },
     {
-      "id": "health",
-      "name": "Health",
-      "description": "Health news, medical research, and wellness"
+      "name": "Health"
     },
     {
-      "id": "science",
-      "name": "Science",
-      "description": "Scientific discoveries, research, and technology"
+      "name": "Science"
     },
     {
-      "id": "sports",
-      "name": "Sports",
-      "description": "Sports news, scores, and athletic events"
+      "name": "Sports"
     },
     {
-      "id": "technology",
-      "name": "Technology",
-      "description": "Tech news, gadgets, and digital innovations"
+      "name": "Technology"
     }
   ]
 }
